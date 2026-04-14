@@ -30,8 +30,8 @@ This repository contains the code for our SemEval-2026 Task 13 system, which add
 
 ```
 .
-├── Semeval_A.ipynb   # Subtask A: UniXcoder multi-view training pipeline
-├── Semeval_B.ipynb                # Subtask B: CodeBERT diagnostic baseline
+├── Semeval_a.py   # Subtask A: UniXcoder multi-view training pipeline
+├── Semeval_b.py               # Subtask B: CodeBERT diagnostic baseline
 ```
 
 ---
@@ -66,8 +66,8 @@ pip install torch transformers datasets scikit-learn pandas numpy evaluate accel
 
 ### Running
 
-1. **Subtask A:** Open `Semeval_A.ipynb` in Kaggle or Colab. Mount Google Drive for checkpoint saving. Run cells in order.
-2. **Subtask B:** Open `Semeval_B.ipynb` in Colab with an A100 GPU. Mount Google Drive with the Task B parquet files at `My Drive/Semeval/`. Run cells in order.
+1. **Subtask A:** Open `Semeval_a.py` in Kaggle or Colab. Mount Google Drive for checkpoint saving. Run cells in order.
+2. **Subtask B:** Open `Semeval_b.py` in Colab with an A100 GPU. Mount Google Drive with the Task B parquet files at `My Drive/Semeval/`. Run cells in order.
 
 ---
 
