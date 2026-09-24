@@ -1,6 +1,6 @@
 # UCSC-NLP at SemEval-2026 Task 13: Multi-Lingual Machine-Generated Code Detection
 
-> **Paper:** *Multi-View Generalization and Diagnostic Analysis of Machine-Generated Code Detection*  
+> **Paper:** [*Multi-View Generalization and Diagnostic Analysis of Machine-Generated Code Detection*](https://aclanthology.org/2026.semeval-1.311/)  
 > **Authors:** Kargi Chauhan\*, Sadiba Nusrat Nur\* (University of California, Santa Cruz)  
 > **Task:** SemEval-2026 Task 13 — Subtask A (binary detection) & Subtask B (multi-class attribution)  
 > \* Equal contribution
